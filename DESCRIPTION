@@ -1,0 +1,12 @@
+Package: CRANpkgB
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-03-02
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: A package that does nothing and depends only on CRAN package(s).
+License: GPL-3
+LazyData: TRUE
+Imports:
+  CRANpkgA
